@@ -1,5 +1,6 @@
 package com.kcoding.androidlibrary
 
+import android.content.Intent
 import android.os.Bundle
 import android.os.PersistableBundle
 import androidx.activity.ComponentActivity
@@ -12,6 +13,5 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?, persistentState: PersistableBundle?) {
         super.onCreate(savedInstanceState, persistentState)
-
     }
 }

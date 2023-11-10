@@ -9,3 +9,5 @@ dependencyResolutionManagement {
 rootProject.name = "AndroidLibrary"
 include ':app'
 include ':recyclerview-helper-library'
+include ':app:NearpaysNfc'
+include ':nearpaysnfc'
